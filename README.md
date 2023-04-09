@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
