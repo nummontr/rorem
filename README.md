@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
