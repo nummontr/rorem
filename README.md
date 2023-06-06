@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
