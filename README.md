@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Tracker: clean up GMC (#8003)
