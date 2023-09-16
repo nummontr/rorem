@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Segment TensorRT batch=3 fix (#7952)
