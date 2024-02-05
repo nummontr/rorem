@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Segment TensorRT batch=3 fix (#7952)
