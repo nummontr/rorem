@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add simple-utilities.md Docs page (#8269)
