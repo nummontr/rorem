@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
