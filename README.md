@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add estimate_speed(region_color) parameter (#8285)
