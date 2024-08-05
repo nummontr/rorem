@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add horizontal Mosaic3 augmentation (#6898)
