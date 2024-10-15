@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
