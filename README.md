@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add docstrings to new HUB functions (#7576)
